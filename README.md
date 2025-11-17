@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ac08cea3-5e15-4072-8360-c3bfad840ff9
+
 # Sales Analysis Dashboard – Power BI
 https://app.powerbi.com/groups/me/reports/e2535097-63c5-4553-acc1-fc46da44e7a5/4f7eb566a714bc164110?experience=power-bi
 
